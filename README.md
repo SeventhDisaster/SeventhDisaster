@@ -3,8 +3,8 @@
 ## I'm a Student, Developer, Artist and I enjoy teaching
 - 🔭 I’m currently working on my [Personal Portfolio Website]
 - 🌱 I’m currently learning Swift/iOS, Crossplatform, React and just about everything
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: The room I'm in when writing this is really cold and the heating is busted.
 
 ### Get in touch with me:
 
@@ -23,6 +23,10 @@
 
 <br />
 <br />
+
+### Github Statistics
+<img align="left" alt="Seventh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seventhdisaster&show_icons=true&hide_border=true" />
+
 
 <!--
 **SeventhDisaster/SeventhDisaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
