@@ -1,27 +1,24 @@
 ### Hello, I'm Krister - aka SeventhDisaster
 
 ## I'm a Student, Developer, Artist and I enjoy teaching
-- 🔭 I’m currently working on my [Personal Portfolio Website]
-- 🌱 I’m currently learning Swift/iOS, Crossplatform, React and just about everything
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The room I'm in when writing this is really cold and the heating is busted.
+I’m currently working on my Personal Portfolio Website
+
 
 ### Get in touch with me:
 
-[<img align="left" alt="Seventh" width="22px" srx="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Seventh" width="22px" srx="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
+[<img align="left" alt="Seventh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/krister-emanuelsen/) &nbsp;LinkedIn
+
+[<img align="left" alt="Seventh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Seventh_7777) &nbsp;Twitter
 
 <br />
 
 
-### Languages and Tools:
+### Languages and known frameworks:
 
-[<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][css]
-[<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][javascript]
+HTML, CSS, Javascript, Typescript, Java, Kotlin, Swift, C#
 
-<br />
+React, Vue, Bootstrap, React-Bootstrap, Ionic, React Native, 
+
 <br />
 
 ### Github Statistics
