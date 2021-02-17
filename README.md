@@ -1,4 +1,4 @@
-### Hello, I'm Krister - aka SeventhDisaster
+### Hello, I'm Krister - aka Seventh
 
 ## I'm a Student, Developer, Artist and I enjoy teaching
 I’m currently working on my Personal Portfolio Website
