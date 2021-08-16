@@ -1,7 +1,7 @@
 ### Hello, I'm Krister - aka Seventh
 
-## I'm a Student, Developer, Artist and I enjoy teaching
-I’m currently working on my Personal Portfolio Website
+## I'm a Developer, Artist, and uh.. Other stuff probably!
+I’m work on personal stuff when I feel like it. Stuff gets updated when I'm in the mood for it. I try not to program too much in my free time to avoid burnout.
 
 
 ### Get in touch with me:
@@ -17,7 +17,7 @@ I’m currently working on my Personal Portfolio Website
 
 HTML, CSS, Javascript, Typescript, Java, Kotlin, Swift, C#
 
-React, Vue, Bootstrap, React-Bootstrap, Ionic, React Native, 
+React, Vue, Bootstrap, React-Bootstrap, Ionic, React Native, And honestly so much more I forgot the rest. :)
 
 <br />
 
