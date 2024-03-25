@@ -1,12 +1,10 @@
-### Hello, I'm Krister - aka Seventh
+### Hello, I'm Seventh
 
 ## I'm a Developer, Artist, and uh.. Other stuff probably!
 I’m work on personal stuff when I feel like it. Stuff gets updated when I'm in the mood for it. I try not to program too much in my free time to avoid burnout.
 
 
 ### Get in touch with me:
-
-[<img align="left" alt="Seventh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/krister-emanuelsen/) &nbsp;LinkedIn
 
 [<img align="left" alt="Seventh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Seventh_7777) &nbsp;Twitter
 
